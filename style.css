@@ -147,7 +147,7 @@ footer {
         border-top-left-radius: 0px;
     }
     .hero-img {
-        content: url('./images/image-header-desktop.jpg');
+        content: url('image-header-desktop.jpg');
         height: 300px;
         border-top-left-radius: 0px;
         border-bottom-left-radius: 7px;
